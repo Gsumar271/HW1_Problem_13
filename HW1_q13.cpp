@@ -13,7 +13,7 @@ By Yev Sumaryev
 using namespace std;
 
 
-//Worker
+//Worker class
 class Worker
 { 
     public: 
